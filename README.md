@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HugoCodesig
 - 👀 I’m interested in learning programming languages.
-- 🌱 I’m currently learning HTML/CSS/JS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any project, as long as I can collaborate.
 - 📫 How to reach me: well, uhh, does GitHub have dms or something? I'll still be alert on my account though.
 - 😄 Pronouns: he/him
