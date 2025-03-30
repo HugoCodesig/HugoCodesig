@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HugoCodesig
+- 👋 Hi, I’m @HugoCodesig (aka Hugo)
 - 👀 I’m interested in learning programming languages.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any project, as long as I can collaborate.
